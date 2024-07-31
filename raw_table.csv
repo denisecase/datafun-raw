@@ -4,7 +4,7 @@ ID,Date,Email,Zip,Age,Height_Ft,Height_In,Weight_lbs,Married
 3,2024-07-02,jane.smith@example,54321,,5,4,130,Single
 4,2024-07-02,jane.smith@domain.com,54321,,5,4,130,Single
 5,2024-07-03,michael.jones@example.com,11111,35,5,8,200,Married
-6,2024-07-03,michael.jones@example.com,11111,35,,200,Married
+6,2024-07-03,michael.jones@example.com,11111,35,,,200,Married
 7,2024-07-04,emily.brown@example.com,22222,22,5,2,120,Single
 8,2024-07-04,emily.brown@example.com,22222,22,5,2,120,Single
 9,2024-07-05,olivia.white@example.com,33333,30,5,7,170,Married
